@@ -1,0 +1,106 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2025 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-17 03:59+0500\n"
+"PO-Revision-Date: 2025-06-17 02:29+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.13.1\n"
+
+#: handler/menu.py:9
+msgid "Testlar"
+msgstr ""
+
+#: handler/menu.py:11
+msgid "Barcha testlar"
+msgstr ""
+
+#: handler/menu.py:13 keyboards/reply/button.py:22
+msgid "Natijalar"
+msgstr ""
+
+#: handler/menu.py:15
+msgid "Barcha natijalar"
+msgstr ""
+
+#: handler/register.py:22
+msgid "/register"
+msgstr ""
+
+#: handler/register.py:24
+msgid "Toliq ismingizni kiriting"
+msgstr ""
+
+#: handler/register.py:31
+msgid "Telefon raqamingizni kiriting yoki knopkani bosing"
+msgstr ""
+
+#: handler/register.py:43
+msgid ""
+"Ismingiz: {fullname}\n"
+"Telefon raqamingiz: {phone}\n"
+"\n"
+"Ma'lumotlaringizni tasdiqlaysizmi?"
+msgstr ""
+
+#: handler/register.py:67 keyboards/reply/button.py:13
+msgid "ha"
+msgstr ""
+
+#: handler/register.py:75
+msgid "Siz allaqachon ro'yxatdan o'tgansiz."
+msgstr "Siz allaqachon ro'yxatdan o'tgansan ukam"
+
+#: handler/register.py:84
+msgid "Xatolik yuz berdi: "
+msgstr ""
+
+#: handler/register.py:88
+msgid "Ro'yxatdan o'tdingiz ✅"
+msgstr ""
+
+#: handler/register.py:89
+msgid "Botdan foydalanishingiz mumkin"
+msgstr ""
+
+#: handler/register.py:92 keyboards/reply/button.py:14
+msgid "yoq"
+msgstr ""
+
+#: handler/register.py:93
+msgid ""
+"Sog‘ salomat bo‘ling. Qaytadan ro‘yxatdan o‘tish uchun /register "
+"buyrug‘ini bosing!"
+msgstr ""
+
+#: handler/register.py:97
+msgid "Iltimos, 'ha' yoki 'yo‘q' deb tasdiqlang."
+msgstr ""
+
+#: keyboards/reply/button.py:6
+msgid "telefon ulashish"
+msgstr ""
+
+#: keyboards/reply/button.py:8
+msgid "tugamadan foydalanishingiz ham mumkin"
+msgstr ""
+
+#: keyboards/reply/button.py:16 keyboards/reply/button.py:24
+msgid "tugmadan foydalaning"
+msgstr ""
+
+#: keyboards/reply/button.py:21
+msgid "Test yechish"
+msgstr ""
+
